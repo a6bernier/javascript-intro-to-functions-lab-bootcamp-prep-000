@@ -5,5 +5,5 @@ function whisper(string) {
   return string.toLowerCase()
 }
 function logShout("hello") {
-  return string
+  console.log("I can't hear you")
 }
