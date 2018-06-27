@@ -13,3 +13,9 @@ function logWhisper(string) {
 function sayHiToGrandma() {
   return ("I can't hear you!")
 }
+function sayHiToGrandma() {
+  return ("YES INDEED!")
+}
+function sayHiToGrandma() {
+  return ("I love you, too.")
+}
