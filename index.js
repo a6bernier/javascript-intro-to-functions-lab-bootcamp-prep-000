@@ -18,3 +18,6 @@ function sayHiToGrandma(string) {
   console.log("HELLO")
   return `YES INDEED!"`
 }
+function sayHiToGrandma(string) {
+  console.log()
+}
