@@ -9,3 +9,4 @@ function sayHiToGrandma() {
   return `I can't hear you!`
 }
 var "I can't hear you!" = "YES INDEED!"
+console.log()
