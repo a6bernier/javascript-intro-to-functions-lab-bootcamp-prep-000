@@ -11,4 +11,7 @@ function sayHiToGrandma() {
   console.log("Hi, Grandma!")
   return `I can't hear you!`
 }
-
+function sayHiToGrandma() {
+  console.log("Hi, Grandma!")
+  return string.toLowerCase()
+}
