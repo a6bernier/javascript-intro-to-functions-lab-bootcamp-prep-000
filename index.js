@@ -10,9 +10,6 @@ function logShout() {
 function logWhisper() {
   console.log("hello")
 }
-function sayHiToGrandma(logShout) {
-  return ("I can't hear you!")
-}
 function sayHiToGrandma() {
   console.log("I cant hear you!")
   return ("YES INDEED")
