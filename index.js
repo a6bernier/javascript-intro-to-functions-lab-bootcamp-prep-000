@@ -13,4 +13,4 @@ function logWhisper() {
 function sayHiToGrandma() {
   return ("I can't hear you!")
 }
-uppercase.toUpperCase(hello) === uppercase
+
