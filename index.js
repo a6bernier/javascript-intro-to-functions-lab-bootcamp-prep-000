@@ -13,6 +13,3 @@ function logWhisper() {
 function sayHiToGrandma() {
   return ("I can't hear you!")
 }
-var uppercase = "HELLO"
-var lowercase = "hello"
-var mixedCase = "High there"
