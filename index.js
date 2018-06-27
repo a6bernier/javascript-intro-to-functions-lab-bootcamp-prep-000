@@ -13,12 +13,3 @@ function logWhisper() {
 function sayHiToGrandma() {
   return ("I can't hear you!")
 }
-function sayHiToGrandma() {
-  return ("YES INDEED!")
-}
-function sayHiToGrandma() {
-  return ("I love you, too.")
-}
-function sayHiToGrandma(HELLO) {
-  return sting.toUpperCase("YES INDEED!")
-}
