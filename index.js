@@ -8,5 +8,3 @@ function sayHiToGrandma() {
   console.log("Hi, Grandma!")
   return `I can't hear you!`
 }
-var "I can't hear you!" = "YES INDEED!"
-console.log("I can't hear you!")
