@@ -4,14 +4,10 @@ function shout(string) {
 function whisper(string) {
   return string.toLowerCase()
 }
-
-
-
-
-
+function logShout("hello") {
+  console.log("HELLO")
+  {
 function sayHiToGrandma() {
   console.log("Hi, Grandma!")
   return `I can't hear you!`
-}
-
 }
