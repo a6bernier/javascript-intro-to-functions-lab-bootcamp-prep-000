@@ -9,7 +9,7 @@ function sayHiToGrandma() {
   return `I can't hear you!`
 }
 function sayILoveYou,Too() {
-  console.log()
+  console.log(   )
 }
 
 ("I love you, too.") {
