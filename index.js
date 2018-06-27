@@ -13,9 +13,9 @@ function logWhisper() {
 function sayHiToGrandma() {
   return ("I can't hear you!")
 }
-function logShout() {
+function logShout(string) {
   return string.toUpperCase
 }
-function logWhisper() {
+function logWhisper(string) {
   return string.toLowerCase
 }
