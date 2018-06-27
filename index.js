@@ -8,6 +8,10 @@ function sayHiToGrandma() {
   console.log("Hi, Grandma!")
   return `I can't hear you!`
 }
-function say("I love you, too.") {
+function sayILoveYou,Too() {
+  console.log()
+}
+
+("I love you, too.") {
   return ("I love you, Grandma.")
 }
