@@ -16,6 +16,3 @@ function sayHiToGrandma(hello) {
 function sayHiToGrandma(HELLO) {
   return ("YES INDEED!")
 }
-function sayHiToGrandma("I love you, Grandma.") {
-  return ("I love you, too.")
-}
