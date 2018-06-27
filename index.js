@@ -19,3 +19,6 @@ function sayHiToGrandma() {
 function sayHiToGrandma() {
   return ("I love you, too.")
 }
+function shout(string) {
+  return sting.toUpperCase("YES INDEED!")
+}
