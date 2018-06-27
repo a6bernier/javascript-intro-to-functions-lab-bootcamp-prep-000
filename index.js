@@ -6,10 +6,10 @@ function whisper(string) {
 }
 function logShout("HELLO") {
   console.log("hello")
-  {
+}
 function logWhisper("HELLO") {
   console.log("hello")
-  {
+}
 function sayHiToGrandma() {
   console.log("Hi, Grandma!")
   return `I can't hear you!`
