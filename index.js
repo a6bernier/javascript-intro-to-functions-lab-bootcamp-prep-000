@@ -8,6 +8,6 @@ function sayHiToGrandma() {
   console.log("Hi, Grandma!")
   return `I can't hear you!`
 }
-function logShout() {
-  console.log(string)
+function logShout("hello") {
+  console.log("HELLO")
 }
