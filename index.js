@@ -1,7 +1,5 @@
-
-
-
-
+expect(shout('hello')).toEqual('HELLO')
+expect(whisper("HELLO")).toEqual("hello")
 function shout(string) {
   return string.toUpperCase()
 }
