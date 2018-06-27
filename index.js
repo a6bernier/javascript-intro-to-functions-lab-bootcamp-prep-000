@@ -11,3 +11,6 @@ function sayHiToGrandma() {
   console.log("Hi, Grandma!")
   return `I can't hear you!`
 }
+function shout(string) {
+  
+}
